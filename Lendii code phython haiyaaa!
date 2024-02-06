@@ -1,0 +1,10 @@
+print("I don't want say this haiya ok ok Hello, welcome to another completely unnecessary piece of programmmmiiinggg.")
+
+user_input = input("Haiyaaa! Please provide any text or press enterrrr without typinggg anythinggg: ") # Gets user input, although it won't matter much
+
+if user_input.lower() == 'haiyaaa!':
+    print('Well congratulations, you figured out that spending time conversing with uncle roger haiyaaa! waste of time and energy hearing insults.')
+else:
+    print(f"I cannot believe anyone would dedicate their precious time to entering 'some peice of shit', when they could be doing something productive . haiyaaa! uncle roger said")
+
+# End result remains the same regardless of user interaction, because why bother making things useful or interesting...
